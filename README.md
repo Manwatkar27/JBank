@@ -1,4 +1,4 @@
-JBank – Mini Banking Application in Java
+###JBank – Mini Banking Application in Java
 📌 Overview
 
 JBank is a mini banking application developed in Java that uses JDBC to connect and interact with a MySQL database.
